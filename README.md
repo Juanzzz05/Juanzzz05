@@ -7,4 +7,4 @@ Estudiante de Ingeniería de Sistemas enfocado en Redes de Computadores, Program
 - **Áreas de Interés:** Redes & Infraestructura, Inteligencia Artificial, Programación Paralela
 
 ### 📫 Contacto
-- **LinkedIn:** [Mi Perfil de LinkedIn](www.linkedin.com/in/juan-david-gomez-mosquera-09a5b9367)
+- **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/juan-david-gomez-mosquera-09a5b9367)
